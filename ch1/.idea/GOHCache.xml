@@ -3,15 +3,22 @@
   <component name="GoORMHelperCache">
     <option name="scannedPathMapping">
       <map>
-        <entry key="file://$PROJECT_DIR$/echo1.go">
+        <entry key="file://$PROJECT_DIR$/echo1/echo1.go">
           <value>
             <ScannedPath>
               <option name="lastModified" value="1657012165015" />
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/helloworld/helloworld.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1707717957960" />
+            </ScannedPath>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastTimeChecked" value="1707716568955" />
+    <option name="lastTimeChecked" value="1707717498981" />
   </component>
 </project>
