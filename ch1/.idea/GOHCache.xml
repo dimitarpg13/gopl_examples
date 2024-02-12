@@ -6,7 +6,7 @@
         <entry key="file://$PROJECT_DIR$/echo1/echo1.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1657012165015" />
+              <option name="lastModified" value="1707719665852" />
             </ScannedPath>
           </value>
         </entry>
@@ -14,6 +14,13 @@
           <value>
             <ScannedPath>
               <option name="lastModified" value="1707717957960" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/helloworld1/helloworld1.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1707719563352" />
             </ScannedPath>
           </value>
         </entry>
